@@ -28,8 +28,3 @@ Welcome to the **Task Tracker Application**! This tool is designed to help emplo
 - **User Authentication**:
   - Secure login ensuring only authenticated users can access the application.
 
-## Installation and Setup ⚙️
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/falcon-14/Employee-Tracker.git
